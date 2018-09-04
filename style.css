@@ -4,4 +4,9 @@
 	background-color: red;
 	border-color: black;
 	border-radius: 80;
+
+}
+.box2 {
+	height: 100px;
+	width: 100px;
 }
